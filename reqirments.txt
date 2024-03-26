@@ -1,0 +1,2 @@
+pynput==2.0.0
+pyperclip==1.8.0
