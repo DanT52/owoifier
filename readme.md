@@ -48,11 +48,3 @@ For the windows version I plan on switching to using the keyboard package, so th
 ## License
 
 This script is released under the MIT License. See the LICENSE file for more details.
-
-
-
-things to change.
-
-make windows version use keyboard instead of pynput, with option to instantly convert on enter press.
-
-create a readme with tutorial for mac and windows.
